@@ -1,4 +1,5 @@
 {
-  "license": "12345",
-  "domain": "wags.test"
+  "domain": "wags.test",
+  "expired_at: "2024-07-03 00:00:00",
+  "status": "active",
 }
